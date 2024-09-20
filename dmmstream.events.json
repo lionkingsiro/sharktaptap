@@ -1,0 +1,3263 @@
+[
+    {
+        "_id": "401671808",
+        "awayId": "17",
+        "awayTeam": {
+            "id": "17",
+            "name": "Patriots",
+            "abbreviation": "NE",
+            "displayName": "New England Patriots",
+            "shortDisplayName": "Patriots",
+            "color": "002a5c",
+            "alternateColor": "c60c30",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
+        },
+        "date": "2024-09-20T00:15Z",
+        "homeId": "20",
+        "homeTeam": {
+            "id": "20",
+            "name": "Jets",
+            "abbreviation": "NYJ",
+            "displayName": "New York Jets",
+            "shortDisplayName": "Jets",
+            "color": "115740",
+            "alternateColor": "ffffff",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
+        },
+        "id": "401671808",
+        "name": "New England Patriots at New York Jets",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "1-2"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "0-1"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "1-1"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "NE @ NYJ",
+        "tournament": "nfl",
+        "streams": [{"name": "ESPN", "link": "https://www.espn.com/watch/player?id=401671808"},{"name": "Youtube 23", "link": "https://www.youtube.com/watch?v=wxxszUSs4Kk"},{"name": "M3U8 OK", "link": "https://www.espn.com/watch/player?id=401671808"},{"name": "ESPN3", "link": "https://www.espn.com/watch/player?id=401671808"},{"name": "ESPN2", "link": "https://www.espn.com/watch/player?id=401671808"},{"name": "ESPN5", "link": "https://www.espn.com/watch/player?id=401671808"},{"name": "ESPN6", "link": "https://www.espn.com/watch/player?id=401671808"},{"name": "ESPN4", "link": "https://www.espn.com/watch/player?id=401671808"}],
+        "uid": "s:20~l:28~e:401671808"
+    },
+    {
+        "_id": "401671855",
+        "awayId": "19",
+        "awayTeam": {
+            "id": "19",
+            "name": "Giants",
+            "abbreviation": "NYG",
+            "displayName": "New York Giants",
+            "shortDisplayName": "Giants",
+            "color": "003c7f",
+            "alternateColor": "c9243f",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png"
+        },
+        "date": "2024-09-22T17:00Z",
+        "homeId": "5",
+        "homeTeam": {
+            "id": "5",
+            "name": "Browns",
+            "abbreviation": "CLE",
+            "displayName": "Cleveland Browns",
+            "shortDisplayName": "Browns",
+            "color": "472a08",
+            "alternateColor": "ff3c00",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png"
+        },
+        "id": "401671855",
+        "name": "New York Giants at Cleveland Browns",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "0-2"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "0-1"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "0-1"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "NYG @ CLE",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671855"
+    },
+    {
+        "_id": "401671823",
+        "awayId": "9",
+        "awayTeam": {
+            "id": "9",
+            "name": "Packers",
+            "abbreviation": "GB",
+            "displayName": "Green Bay Packers",
+            "shortDisplayName": "Packers",
+            "color": "204e32",
+            "alternateColor": "ffb612",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
+        },
+        "date": "2024-09-22T17:00Z",
+        "homeId": "10",
+        "homeTeam": {
+            "id": "10",
+            "name": "Titans",
+            "abbreviation": "TEN",
+            "displayName": "Tennessee Titans",
+            "shortDisplayName": "Titans",
+            "color": "4b92db",
+            "alternateColor": "002a5c",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png"
+        },
+        "id": "401671823",
+        "name": "Green Bay Packers at Tennessee Titans",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "1-1"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "1-0"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "0-1"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "GB @ TEN",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671823"
+    },
+    {
+        "_id": "401671865",
+        "awayId": "3",
+        "awayTeam": {
+            "id": "3",
+            "name": "Bears",
+            "abbreviation": "CHI",
+            "displayName": "Chicago Bears",
+            "shortDisplayName": "Bears",
+            "color": "0b1c3a",
+            "alternateColor": "e64100",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png"
+        },
+        "date": "2024-09-22T17:00Z",
+        "homeId": "11",
+        "homeTeam": {
+            "id": "11",
+            "name": "Colts",
+            "abbreviation": "IND",
+            "displayName": "Indianapolis Colts",
+            "shortDisplayName": "Colts",
+            "color": "003b75",
+            "alternateColor": "ffffff",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png"
+        },
+        "id": "401671865",
+        "name": "Chicago Bears at Indianapolis Colts",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "1-1"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "1-0"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "0-1"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "CHI @ IND",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671865"
+    },
+    {
+        "_id": "401671646",
+        "awayId": "34",
+        "awayTeam": {
+            "id": "34",
+            "name": "Texans",
+            "abbreviation": "HOU",
+            "displayName": "Houston Texans",
+            "shortDisplayName": "Texans",
+            "color": "00143f",
+            "alternateColor": "c41230",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png"
+        },
+        "date": "2024-09-22T17:00Z",
+        "homeId": "16",
+        "homeTeam": {
+            "id": "16",
+            "name": "Vikings",
+            "abbreviation": "MIN",
+            "displayName": "Minnesota Vikings",
+            "shortDisplayName": "Vikings",
+            "color": "4f2683",
+            "alternateColor": "ffc62f",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png"
+        },
+        "id": "401671646",
+        "name": "Houston Texans at Minnesota Vikings",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "2-0"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "1-0"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "1-0"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "HOU @ MIN",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671646"
+    },
+    {
+        "_id": "401671736",
+        "awayId": "21",
+        "awayTeam": {
+            "id": "21",
+            "name": "Eagles",
+            "abbreviation": "PHI",
+            "displayName": "Philadelphia Eagles",
+            "shortDisplayName": "Eagles",
+            "color": "06424d",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
+        },
+        "date": "2024-09-22T17:00Z",
+        "homeId": "18",
+        "homeTeam": {
+            "id": "18",
+            "name": "Saints",
+            "abbreviation": "NO",
+            "displayName": "New Orleans Saints",
+            "shortDisplayName": "Saints",
+            "color": "d3bc8d",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png"
+        },
+        "id": "401671736",
+        "name": "Philadelphia Eagles at New Orleans Saints",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "1-1"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "1-1"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "0-0"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "PHI @ NO",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671736"
+    },
+    {
+        "_id": "401671632",
+        "awayId": "24",
+        "awayTeam": {
+            "id": "24",
+            "name": "Chargers",
+            "abbreviation": "LAC",
+            "displayName": "Los Angeles Chargers",
+            "shortDisplayName": "Chargers",
+            "color": "0080c6",
+            "alternateColor": "ffc20e",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png"
+        },
+        "date": "2024-09-22T17:00Z",
+        "homeId": "23",
+        "homeTeam": {
+            "id": "23",
+            "name": "Steelers",
+            "abbreviation": "PIT",
+            "displayName": "Pittsburgh Steelers",
+            "shortDisplayName": "Steelers",
+            "color": "000000",
+            "alternateColor": "ffb612",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png"
+        },
+        "id": "401671632",
+        "name": "Los Angeles Chargers at Pittsburgh Steelers",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "2-0"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "1-0"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "1-0"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "LAC @ PIT",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671632"
+    },
+    {
+        "_id": "401671741",
+        "awayId": "7",
+        "awayTeam": {
+            "id": "7",
+            "name": "Broncos",
+            "abbreviation": "DEN",
+            "displayName": "Denver Broncos",
+            "shortDisplayName": "Broncos",
+            "color": "0a2343",
+            "alternateColor": "fc4c02",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
+        },
+        "date": "2024-09-22T17:00Z",
+        "homeId": "27",
+        "homeTeam": {
+            "id": "27",
+            "name": "Buccaneers",
+            "abbreviation": "TB",
+            "displayName": "Tampa Bay Buccaneers",
+            "shortDisplayName": "Buccaneers",
+            "color": "bd1c36",
+            "alternateColor": "3e3a35",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png"
+        },
+        "id": "401671741",
+        "name": "Denver Broncos at Tampa Bay Buccaneers",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "0-2"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "0-1"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "0-1"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "DEN @ TB",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671741"
+    },
+    {
+        "_id": "401671658",
+        "awayId": "29",
+        "awayTeam": {
+            "id": "29",
+            "name": "Panthers",
+            "abbreviation": "CAR",
+            "displayName": "Carolina Panthers",
+            "shortDisplayName": "Panthers",
+            "color": "0085ca",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
+        },
+        "date": "2024-09-22T20:05Z",
+        "homeId": "13",
+        "homeTeam": {
+            "id": "13",
+            "name": "Raiders",
+            "abbreviation": "LV",
+            "displayName": "Las Vegas Raiders",
+            "shortDisplayName": "Raiders",
+            "color": "000000",
+            "alternateColor": "a5acaf",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png"
+        },
+        "id": "401671658",
+        "name": "Carolina Panthers at Las Vegas Raiders",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "0-2"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "0-1"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "0-1"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "CAR @ LV",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671658"
+    },
+    {
+        "_id": "401671662",
+        "awayId": "15",
+        "awayTeam": {
+            "id": "15",
+            "name": "Dolphins",
+            "abbreviation": "MIA",
+            "displayName": "Miami Dolphins",
+            "shortDisplayName": "Dolphins",
+            "color": "008e97",
+            "alternateColor": "fc4c02",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png"
+        },
+        "date": "2024-09-22T20:05Z",
+        "homeId": "26",
+        "homeTeam": {
+            "id": "26",
+            "name": "Seahawks",
+            "abbreviation": "SEA",
+            "displayName": "Seattle Seahawks",
+            "shortDisplayName": "Seahawks",
+            "color": "002a5c",
+            "alternateColor": "69be28",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
+        },
+        "id": "401671662",
+        "name": "Miami Dolphins at Seattle Seahawks",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "1-1"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "1-1"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "0-0"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "MIA @ SEA",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671662"
+    },
+    {
+        "_id": "401671763",
+        "awayId": "33",
+        "awayTeam": {
+            "id": "33",
+            "name": "Ravens",
+            "abbreviation": "BAL",
+            "displayName": "Baltimore Ravens",
+            "shortDisplayName": "Ravens",
+            "color": "29126f",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png"
+        },
+        "date": "2024-09-22T20:25Z",
+        "homeId": "6",
+        "homeTeam": {
+            "id": "6",
+            "name": "Cowboys",
+            "abbreviation": "DAL",
+            "displayName": "Dallas Cowboys",
+            "shortDisplayName": "Cowboys",
+            "color": "002a5c",
+            "alternateColor": "b0b7bc",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
+        },
+        "id": "401671763",
+        "name": "Baltimore Ravens at Dallas Cowboys",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "0-2"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "0-1"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "0-1"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "BAL @ DAL",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671763"
+    },
+    {
+        "_id": "401671772",
+        "awayId": "25",
+        "awayTeam": {
+            "id": "25",
+            "name": "49ers",
+            "abbreviation": "SF",
+            "displayName": "San Francisco 49ers",
+            "shortDisplayName": "49ers",
+            "color": "aa0000",
+            "alternateColor": "b3995d",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
+        },
+        "date": "2024-09-22T20:25Z",
+        "homeId": "14",
+        "homeTeam": {
+            "id": "14",
+            "name": "Rams",
+            "abbreviation": "LAR",
+            "displayName": "Los Angeles Rams",
+            "shortDisplayName": "Rams",
+            "color": "003594",
+            "alternateColor": "ffd100",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
+        },
+        "id": "401671772",
+        "name": "San Francisco 49ers at Los Angeles Rams",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "1-1"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "1-0"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "0-1"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "SF @ LAR",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671772"
+    },
+    {
+        "_id": "401671771",
+        "awayId": "8",
+        "awayTeam": {
+            "id": "8",
+            "name": "Lions",
+            "abbreviation": "DET",
+            "displayName": "Detroit Lions",
+            "shortDisplayName": "Lions",
+            "color": "0076b6",
+            "alternateColor": "bbbbbb",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png"
+        },
+        "date": "2024-09-22T20:25Z",
+        "homeId": "22",
+        "homeTeam": {
+            "id": "22",
+            "name": "Cardinals",
+            "abbreviation": "ARI",
+            "displayName": "Arizona Cardinals",
+            "shortDisplayName": "Cardinals",
+            "color": "a40227",
+            "alternateColor": "ffffff",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png"
+        },
+        "id": "401671771",
+        "name": "Detroit Lions at Arizona Cardinals",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "1-1"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "1-1"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "0-0"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "DET @ ARI",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671771"
+    },
+    {
+        "_id": "401671793",
+        "awayId": "12",
+        "awayTeam": {
+            "id": "12",
+            "name": "Chiefs",
+            "abbreviation": "KC",
+            "displayName": "Kansas City Chiefs",
+            "shortDisplayName": "Chiefs",
+            "color": "e31837",
+            "alternateColor": "ffb612",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png"
+        },
+        "date": "2024-09-23T00:20Z",
+        "homeId": "1",
+        "homeTeam": {
+            "id": "1",
+            "name": "Falcons",
+            "abbreviation": "ATL",
+            "displayName": "Atlanta Falcons",
+            "shortDisplayName": "Falcons",
+            "color": "a71930",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png"
+        },
+        "id": "401671793",
+        "name": "Kansas City Chiefs at Atlanta Falcons",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "2-0"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "2-0"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "0-0"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "KC @ ATL",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671793"
+    },
+    {
+        "_id": "401671682",
+        "awayId": "30",
+        "awayTeam": {
+            "id": "30",
+            "name": "Jaguars",
+            "abbreviation": "JAX",
+            "displayName": "Jacksonville Jaguars",
+            "shortDisplayName": "Jaguars",
+            "color": "007487",
+            "alternateColor": "d7a22a",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png"
+        },
+        "date": "2024-09-23T23:30Z",
+        "homeId": "2",
+        "homeTeam": {
+            "id": "2",
+            "name": "Bills",
+            "abbreviation": "BUF",
+            "displayName": "Buffalo Bills",
+            "shortDisplayName": "Bills",
+            "color": "00338d",
+            "alternateColor": "d50a0a",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
+        },
+        "id": "401671682",
+        "name": "Jacksonville Jaguars at Buffalo Bills",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "0-2"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "0-1"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "0-1"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "JAX @ BUF",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671682"
+    },
+    {
+        "_id": "401671490",
+        "awayId": "28",
+        "awayTeam": {
+            "id": "28",
+            "name": "Commanders",
+            "abbreviation": "WSH",
+            "displayName": "Washington Commanders",
+            "shortDisplayName": "Commanders",
+            "color": "5a1414",
+            "alternateColor": "ffb612",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png"
+        },
+        "date": "2024-09-24T00:15Z",
+        "homeId": "4",
+        "homeTeam": {
+            "id": "4",
+            "name": "Bengals",
+            "abbreviation": "CIN",
+            "displayName": "Cincinnati Bengals",
+            "shortDisplayName": "Bengals",
+            "color": "fb4f14",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
+        },
+        "id": "401671490",
+        "name": "Washington Commanders at Cincinnati Bengals",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Any",
+                "type": "total",
+                "summary": "1-1"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "1-0"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "0-1"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "WSH @ CIN",
+        "tournament": "nfl",
+        "uid": "s:20~l:28~e:401671490"
+    },
+    {
+        "_id": "401570748",
+        "awayId": "11",
+        "awayTeam": {
+            "id": "11",
+            "name": "Athletics",
+            "abbreviation": "OAK",
+            "displayName": "Oakland Athletics",
+            "shortDisplayName": "Athletics",
+            "color": "003831",
+            "alternateColor": "efb21e",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/oak.png"
+        },
+        "date": "2024-09-18T18:20Z",
+        "homeId": "16",
+        "homeTeam": {
+            "id": "16",
+            "name": "Cubs",
+            "abbreviation": "CHC",
+            "displayName": "Chicago Cubs",
+            "shortDisplayName": "Cubs",
+            "color": "0e3386",
+            "alternateColor": "cc3433",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
+        },
+        "id": "401570748",
+        "name": "Oakland Athletics at Chicago Cubs",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "67-86"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "36-39"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "31-47"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "OAK @ CHC",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570748"
+    },
+    {
+        "_id": "401570739",
+        "awayId": "29",
+        "awayTeam": {
+            "id": "29",
+            "name": "Diamondbacks",
+            "abbreviation": "ARI",
+            "displayName": "Arizona Diamondbacks",
+            "shortDisplayName": "Diamondbacks",
+            "color": "aa182c",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
+        },
+        "date": "2024-09-18T19:10Z",
+        "homeId": "27",
+        "homeTeam": {
+            "id": "27",
+            "name": "Rockies",
+            "abbreviation": "COL",
+            "displayName": "Colorado Rockies",
+            "shortDisplayName": "Rockies",
+            "color": "33006f",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"
+        },
+        "id": "401570739",
+        "name": "Arizona Diamondbacks at Colorado Rockies",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "84-68"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "42-33"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "42-35"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "ARI @ COL",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570739"
+    },
+    {
+        "_id": "401570742",
+        "awayId": "4",
+        "awayTeam": {
+            "id": "4",
+            "name": "White Sox",
+            "abbreviation": "CHW",
+            "displayName": "Chicago White Sox",
+            "shortDisplayName": "White Sox",
+            "color": "000000",
+            "alternateColor": "c4ced4",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
+        },
+        "date": "2024-09-18T20:07Z",
+        "homeId": "3",
+        "homeTeam": {
+            "id": "3",
+            "name": "Angels",
+            "abbreviation": "LAA",
+            "displayName": "Los Angeles Angels",
+            "shortDisplayName": "Angels",
+            "color": "ba0021",
+            "alternateColor": "c4ced4",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+        },
+        "id": "401570742",
+        "name": "Chicago White Sox at Los Angeles Angels",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "36-117"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "20-58"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "16-59"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "CHW @ LAA",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570742"
+    },
+    {
+        "_id": "401570751",
+        "awayId": "26",
+        "awayTeam": {
+            "id": "26",
+            "name": "Giants",
+            "abbreviation": "SF",
+            "displayName": "San Francisco Giants",
+            "shortDisplayName": "Giants",
+            "color": "000000",
+            "alternateColor": "fd5a1e",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
+        },
+        "date": "2024-09-18T22:35Z",
+        "homeId": "1",
+        "homeTeam": {
+            "id": "1",
+            "name": "Orioles",
+            "abbreviation": "BAL",
+            "displayName": "Baltimore Orioles",
+            "shortDisplayName": "Orioles",
+            "color": "df4601",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+        },
+        "id": "401570751",
+        "name": "San Francisco Giants at Baltimore Orioles",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "74-78"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "41-37"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "33-41"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "SF @ BAL",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570751"
+    },
+    {
+        "_id": "401570740",
+        "awayId": "15",
+        "awayTeam": {
+            "id": "15",
+            "name": "Braves",
+            "abbreviation": "ATL",
+            "displayName": "Atlanta Braves",
+            "shortDisplayName": "Braves",
+            "color": "0c2340",
+            "alternateColor": "ba0c2f",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
+        },
+        "date": "2024-09-18T22:40Z",
+        "homeId": "17",
+        "homeTeam": {
+            "id": "17",
+            "name": "Reds",
+            "abbreviation": "CIN",
+            "displayName": "Cincinnati Reds",
+            "shortDisplayName": "Reds",
+            "color": "c6011f",
+            "alternateColor": "ffffff",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
+        },
+        "id": "401570740",
+        "name": "Atlanta Braves at Cincinnati Reds",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "82-70"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "42-33"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "40-37"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "ATL @ CIN",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570740"
+    },
+    {
+        "_id": "401570744",
+        "awayId": "18",
+        "awayTeam": {
+            "id": "18",
+            "name": "Astros",
+            "abbreviation": "HOU",
+            "displayName": "Houston Astros",
+            "shortDisplayName": "Astros",
+            "color": "002d62",
+            "alternateColor": "eb6e1f",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
+        },
+        "date": "2024-09-18T22:40Z",
+        "homeId": "25",
+        "homeTeam": {
+            "id": "25",
+            "name": "Padres",
+            "abbreviation": "SD",
+            "displayName": "San Diego Padres",
+            "shortDisplayName": "Padres",
+            "color": "2f241d",
+            "alternateColor": "ffc425",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
+        },
+        "id": "401570744",
+        "name": "Houston Astros at San Diego Padres",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "82-70"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "42-32"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "40-38"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "HOU @ SD",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570744"
+    },
+    {
+        "_id": "401570745",
+        "awayId": "19",
+        "awayTeam": {
+            "id": "19",
+            "name": "Dodgers",
+            "abbreviation": "LAD",
+            "displayName": "Los Angeles Dodgers",
+            "shortDisplayName": "Dodgers",
+            "color": "005a9c",
+            "alternateColor": "ffffff",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+        },
+        "date": "2024-09-18T22:40Z",
+        "homeId": "28",
+        "homeTeam": {
+            "id": "28",
+            "name": "Marlins",
+            "abbreviation": "MIA",
+            "displayName": "Miami Marlins",
+            "shortDisplayName": "Marlins",
+            "color": "00a3e0",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
+        },
+        "id": "401570745",
+        "name": "Los Angeles Dodgers at Miami Marlins",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "90-62"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "48-27"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "42-35"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "LAD @ MIA",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570745"
+    },
+    {
+        "_id": "401570746",
+        "awayId": "9",
+        "awayTeam": {
+            "id": "9",
+            "name": "Twins",
+            "abbreviation": "MIN",
+            "displayName": "Minnesota Twins",
+            "shortDisplayName": "Twins",
+            "color": "031f40",
+            "alternateColor": "e20e32",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
+        },
+        "date": "2024-09-18T22:40Z",
+        "homeId": "5",
+        "homeTeam": {
+            "id": "5",
+            "name": "Guardians",
+            "abbreviation": "CLE",
+            "displayName": "Cleveland Guardians",
+            "shortDisplayName": "Guardians",
+            "color": "002b5c",
+            "alternateColor": "e31937",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png"
+        },
+        "id": "401570746",
+        "name": "Minnesota Twins at Cleveland Guardians",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "80-72"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "42-33"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "38-39"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "MIN @ CLE",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570746"
+    },
+    {
+        "_id": "401570741",
+        "awayId": "2",
+        "awayTeam": {
+            "id": "2",
+            "name": "Red Sox",
+            "abbreviation": "BOS",
+            "displayName": "Boston Red Sox",
+            "shortDisplayName": "Red Sox",
+            "color": "0d2b56",
+            "alternateColor": "bd3039",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+        },
+        "date": "2024-09-18T22:50Z",
+        "homeId": "30",
+        "homeTeam": {
+            "id": "30",
+            "name": "Rays",
+            "abbreviation": "TB",
+            "displayName": "Tampa Bay Rays",
+            "shortDisplayName": "Rays",
+            "color": "092c5c",
+            "alternateColor": "8fbce6",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+        },
+        "id": "401570741",
+        "name": "Boston Red Sox at Tampa Bay Rays",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "76-76"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "35-40"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "41-36"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "BOS @ TB",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570741"
+    },
+    {
+        "_id": "401570753",
+        "awayId": "20",
+        "awayTeam": {
+            "id": "20",
+            "name": "Nationals",
+            "abbreviation": "WSH",
+            "displayName": "Washington Nationals",
+            "shortDisplayName": "Nationals",
+            "color": "ab0003",
+            "alternateColor": "11225b",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
+        },
+        "date": "2024-09-18T23:10Z",
+        "homeId": "21",
+        "homeTeam": {
+            "id": "21",
+            "name": "Mets",
+            "abbreviation": "NYM",
+            "displayName": "New York Mets",
+            "shortDisplayName": "Mets",
+            "color": "002d72",
+            "alternateColor": "ff5910",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
+        },
+        "id": "401570753",
+        "name": "Washington Nationals at New York Mets",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "68-84"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "36-39"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "32-45"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "WSH @ NYM",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570753"
+    },
+    {
+        "_id": "401570743",
+        "awayId": "6",
+        "awayTeam": {
+            "id": "6",
+            "name": "Tigers",
+            "abbreviation": "DET",
+            "displayName": "Detroit Tigers",
+            "shortDisplayName": "Tigers",
+            "color": "0a2240",
+            "alternateColor": "ff4713",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
+        },
+        "date": "2024-09-18T23:40Z",
+        "homeId": "7",
+        "homeTeam": {
+            "id": "7",
+            "name": "Royals",
+            "abbreviation": "KC",
+            "displayName": "Kansas City Royals",
+            "shortDisplayName": "Royals",
+            "color": "004687",
+            "alternateColor": "7ab2dd",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
+        },
+        "id": "401570743",
+        "name": "Detroit Tigers at Kansas City Royals",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "80-73"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "39-36"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "41-37"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "DET @ KC",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570743"
+    },
+    {
+        "_id": "401570749",
+        "awayId": "22",
+        "awayTeam": {
+            "id": "22",
+            "name": "Phillies",
+            "abbreviation": "PHI",
+            "displayName": "Philadelphia Phillies",
+            "shortDisplayName": "Phillies",
+            "color": "e81828",
+            "alternateColor": "003278",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
+        },
+        "date": "2024-09-18T23:40Z",
+        "homeId": "8",
+        "homeTeam": {
+            "id": "8",
+            "name": "Brewers",
+            "abbreviation": "MIL",
+            "displayName": "Milwaukee Brewers",
+            "shortDisplayName": "Brewers",
+            "color": "13294b",
+            "alternateColor": "ffc72c",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
+        },
+        "id": "401570749",
+        "name": "Philadelphia Phillies at Milwaukee Brewers",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "91-61"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "52-26"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "39-35"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "PHI @ MIL",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570749"
+    },
+    {
+        "_id": "401570750",
+        "awayId": "23",
+        "awayTeam": {
+            "id": "23",
+            "name": "Pirates",
+            "abbreviation": "PIT",
+            "displayName": "Pittsburgh Pirates",
+            "shortDisplayName": "Pirates",
+            "color": "000000",
+            "alternateColor": "fdb827",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
+        },
+        "date": "2024-09-18T23:45Z",
+        "homeId": "24",
+        "homeTeam": {
+            "id": "24",
+            "name": "Cardinals",
+            "abbreviation": "STL",
+            "displayName": "St. Louis Cardinals",
+            "shortDisplayName": "Cardinals",
+            "color": "be0a14",
+            "alternateColor": "001541",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+        },
+        "id": "401570750",
+        "name": "Pittsburgh Pirates at St. Louis Cardinals",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "71-81"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "38-40"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "33-41"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "PIT @ STL",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570750"
+    },
+    {
+        "_id": "401570752",
+        "awayId": "14",
+        "awayTeam": {
+            "id": "14",
+            "name": "Blue Jays",
+            "abbreviation": "TOR",
+            "displayName": "Toronto Blue Jays",
+            "shortDisplayName": "Blue Jays",
+            "color": "134a8e",
+            "alternateColor": "6cace5",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
+        },
+        "date": "2024-09-19T00:05Z",
+        "homeId": "13",
+        "homeTeam": {
+            "id": "13",
+            "name": "Rangers",
+            "abbreviation": "TEX",
+            "displayName": "Texas Rangers",
+            "shortDisplayName": "Rangers",
+            "color": "003278",
+            "alternateColor": "c0111f",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
+        },
+        "id": "401570752",
+        "name": "Toronto Blue Jays at Texas Rangers",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "72-80"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "38-37"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "34-43"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "TOR @ TEX",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570752"
+    },
+    {
+        "_id": "401570747",
+        "awayId": "10",
+        "awayTeam": {
+            "id": "10",
+            "name": "Yankees",
+            "abbreviation": "NYY",
+            "displayName": "New York Yankees",
+            "shortDisplayName": "Yankees",
+            "color": "132448",
+            "alternateColor": "c4ced4",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
+        },
+        "date": "2024-09-19T01:40Z",
+        "homeId": "12",
+        "homeTeam": {
+            "id": "12",
+            "name": "Mariners",
+            "abbreviation": "SEA",
+            "displayName": "Seattle Mariners",
+            "shortDisplayName": "Mariners",
+            "color": "005c5c",
+            "alternateColor": "0c2c56",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
+        },
+        "id": "401570747",
+        "name": "New York Yankees at Seattle Mariners",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Total",
+                "type": "total",
+                "summary": "88-63"
+            },
+            {
+                "name": "Home",
+                "abbreviation": "Home",
+                "type": "home",
+                "summary": "42-33"
+            },
+            {
+                "name": "Road",
+                "abbreviation": "AWAY",
+                "type": "road",
+                "summary": "46-30"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "NYY @ SEA",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570747"
+    },
+    {
+        "_id": "401620452",
+        "awayId": "19",
+        "awayTeam": {
+            "id": "19",
+            "name": "Sky",
+            "abbreviation": "CHI",
+            "displayName": "Chicago Sky",
+            "shortDisplayName": "Sky",
+            "color": "5091cd",
+            "alternateColor": "ffd520",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/chi.png"
+        },
+        "date": "2024-09-19T23:00Z",
+        "homeId": "18",
+        "homeTeam": {
+            "id": "18",
+            "name": "Sun",
+            "abbreviation": "CONN",
+            "displayName": "Connecticut Sun",
+            "shortDisplayName": "Sun",
+            "color": "f05023",
+            "alternateColor": "0a2240",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/conn.png"
+        },
+        "id": "401620452",
+        "name": "Chicago Sky at Connecticut Sun",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "13-27"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "6-14"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "7-13"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "CHI @ CONN",
+        "tournament": "wnba",
+        "uid": "s:40~l:59~e:401620452"
+    },
+    {
+        "_id": "401620453",
+        "awayId": "20",
+        "awayTeam": {
+            "id": "20",
+            "name": "Dream",
+            "abbreviation": "ATL",
+            "displayName": "Atlanta Dream",
+            "shortDisplayName": "Dream",
+            "color": "e31837",
+            "alternateColor": "5091cc",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png"
+        },
+        "date": "2024-09-19T23:00Z",
+        "homeId": "9",
+        "homeTeam": {
+            "id": "9",
+            "name": "Liberty",
+            "abbreviation": "NY",
+            "displayName": "New York Liberty",
+            "shortDisplayName": "Liberty",
+            "color": "86cebc",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/ny.png"
+        },
+        "id": "401620453",
+        "name": "Atlanta Dream at New York Liberty",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "15-25"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "8-12"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "7-13"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "ATL @ NY",
+        "tournament": "wnba",
+        "uid": "s:40~l:59~e:401620453"
+    },
+    {
+        "_id": "401620454",
+        "awayId": "5",
+        "awayTeam": {
+            "id": "5",
+            "name": "Fever",
+            "abbreviation": "IND",
+            "displayName": "Indiana Fever",
+            "shortDisplayName": "Fever",
+            "color": "002d62",
+            "alternateColor": "e03a3e",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/ind.png"
+        },
+        "date": "2024-09-19T23:00Z",
+        "homeId": "16",
+        "homeTeam": {
+            "id": "16",
+            "name": "Mystics",
+            "abbreviation": "WSH",
+            "displayName": "Washington Mystics",
+            "shortDisplayName": "Mystics",
+            "color": "e03a3e",
+            "alternateColor": "002b5c",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/wsh.png"
+        },
+        "id": "401620454",
+        "name": "Indiana Fever at Washington Mystics",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "20-20"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "12-8"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "8-12"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "IND @ WSH",
+        "tournament": "wnba",
+        "uid": "s:40~l:59~e:401620454"
+    },
+    {
+        "_id": "401620455",
+        "awayId": "6",
+        "awayTeam": {
+            "id": "6",
+            "name": "Sparks",
+            "abbreviation": "LA",
+            "displayName": "Los Angeles Sparks",
+            "shortDisplayName": "Sparks",
+            "color": "552583",
+            "alternateColor": "fdb927",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/la.png"
+        },
+        "date": "2024-09-20T00:00Z",
+        "homeId": "8",
+        "homeTeam": {
+            "id": "8",
+            "name": "Lynx",
+            "abbreviation": "MIN",
+            "displayName": "Minnesota Lynx",
+            "shortDisplayName": "Lynx",
+            "color": "266092",
+            "alternateColor": "79bc43",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/min.png"
+        },
+        "id": "401620455",
+        "name": "Los Angeles Sparks at Minnesota Lynx",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Total",
+                "type": "total",
+                "summary": "8-32"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "5-15"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "3-17"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "LA @ MIN",
+        "tournament": "wnba",
+        "uid": "s:40~l:59~e:401620455"
+    },
+    {
+        "_id": "401620456",
+        "awayId": "3",
+        "awayTeam": {
+            "id": "3",
+            "name": "Wings",
+            "abbreviation": "DAL",
+            "displayName": "Dallas Wings",
+            "shortDisplayName": "Wings",
+            "color": "002b5c",
+            "alternateColor": "c4d600",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/dal.png"
+        },
+        "date": "2024-09-20T02:00Z",
+        "homeId": "17",
+        "homeTeam": {
+            "id": "17",
+            "name": "Aces",
+            "abbreviation": "LV",
+            "displayName": "Las Vegas Aces",
+            "shortDisplayName": "Aces",
+            "color": "a7a8aa",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"
+        },
+        "id": "401620456",
+        "name": "Dallas Wings at Las Vegas Aces",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Total",
+                "type": "total",
+                "summary": "9-30"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "7-13"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "2-17"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "DAL @ LV",
+        "tournament": "wnba",
+        "uid": "s:40~l:59~e:401620456"
+    },
+    {
+        "_id": "401620457",
+        "awayId": "14",
+        "awayTeam": {
+            "id": "14",
+            "name": "Storm",
+            "abbreviation": "SEA",
+            "displayName": "Seattle Storm",
+            "shortDisplayName": "Storm",
+            "color": "2c5235",
+            "alternateColor": "fee11a",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"
+        },
+        "date": "2024-09-20T02:00Z",
+        "homeId": "11",
+        "homeTeam": {
+            "id": "11",
+            "name": "Mercury",
+            "abbreviation": "PHX",
+            "displayName": "Phoenix Mercury",
+            "shortDisplayName": "Mercury",
+            "color": "3c286e",
+            "alternateColor": "e56020",
+            "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/phx.png"
+        },
+        "id": "401620457",
+        "name": "Seattle Storm at Phoenix Mercury",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Total",
+                "type": "total",
+                "summary": "24-15"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "14-6"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "10-9"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "SEA @ PHX",
+        "tournament": "wnba",
+        "uid": "s:40~l:59~e:401620457"
+    },
+    {
+        "_id": "401570763",
+        "awayId": "26",
+        "awayTeam": {
+            "id": "26",
+            "name": "Giants",
+            "abbreviation": "SF",
+            "displayName": "San Francisco Giants",
+            "shortDisplayName": "Giants",
+            "color": "000000",
+            "alternateColor": "fd5a1e",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
+        },
+        "date": "2024-09-19T17:05Z",
+        "homeId": "1",
+        "homeTeam": {
+            "id": "1",
+            "name": "Orioles",
+            "abbreviation": "BAL",
+            "displayName": "Baltimore Orioles",
+            "shortDisplayName": "Orioles",
+            "color": "df4601",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+        },
+        "id": "401570763",
+        "name": "San Francisco Giants at Baltimore Orioles",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "74-79"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "41-37"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "33-42"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "SF @ BAL",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570763"
+    },
+    {
+        "_id": "401570756",
+        "awayId": "15",
+        "awayTeam": {
+            "id": "15",
+            "name": "Braves",
+            "abbreviation": "ATL",
+            "displayName": "Atlanta Braves",
+            "shortDisplayName": "Braves",
+            "color": "0c2340",
+            "alternateColor": "ba0c2f",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
+        },
+        "date": "2024-09-19T17:10Z",
+        "homeId": "17",
+        "homeTeam": {
+            "id": "17",
+            "name": "Reds",
+            "abbreviation": "CIN",
+            "displayName": "Cincinnati Reds",
+            "shortDisplayName": "Reds",
+            "color": "c6011f",
+            "alternateColor": "ffffff",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
+        },
+        "id": "401570756",
+        "name": "Atlanta Braves at Cincinnati Reds",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "83-70"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "42-33"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "41-37"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "ATL @ CIN",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570756"
+    },
+    {
+        "_id": "401570759",
+        "awayId": "9",
+        "awayTeam": {
+            "id": "9",
+            "name": "Twins",
+            "abbreviation": "MIN",
+            "displayName": "Minnesota Twins",
+            "shortDisplayName": "Twins",
+            "color": "031f40",
+            "alternateColor": "e20e32",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
+        },
+        "date": "2024-09-19T17:10Z",
+        "homeId": "5",
+        "homeTeam": {
+            "id": "5",
+            "name": "Guardians",
+            "abbreviation": "CLE",
+            "displayName": "Cleveland Guardians",
+            "shortDisplayName": "Guardians",
+            "color": "002b5c",
+            "alternateColor": "e31937",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png"
+        },
+        "id": "401570759",
+        "name": "Minnesota Twins at Cleveland Guardians",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "80-73"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "42-33"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "38-40"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "MIN @ CLE",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570759"
+    },
+    {
+        "_id": "401570764",
+        "awayId": "14",
+        "awayTeam": {
+            "id": "14",
+            "name": "Blue Jays",
+            "abbreviation": "TOR",
+            "displayName": "Toronto Blue Jays",
+            "shortDisplayName": "Blue Jays",
+            "color": "134a8e",
+            "alternateColor": "6cace5",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
+        },
+        "date": "2024-09-19T18:35Z",
+        "homeId": "13",
+        "homeTeam": {
+            "id": "13",
+            "name": "Rangers",
+            "abbreviation": "TEX",
+            "displayName": "Texas Rangers",
+            "shortDisplayName": "Rangers",
+            "color": "003278",
+            "alternateColor": "c0111f",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
+        },
+        "id": "401570764",
+        "name": "Toronto Blue Jays at Texas Rangers",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "73-80"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "38-37"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "35-43"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "TOR @ TEX",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570764"
+    },
+    {
+        "_id": "401570760",
+        "awayId": "10",
+        "awayTeam": {
+            "id": "10",
+            "name": "Yankees",
+            "abbreviation": "NYY",
+            "displayName": "New York Yankees",
+            "shortDisplayName": "Yankees",
+            "color": "132448",
+            "alternateColor": "c4ced4",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
+        },
+        "date": "2024-09-19T20:10Z",
+        "homeId": "12",
+        "homeTeam": {
+            "id": "12",
+            "name": "Mariners",
+            "abbreviation": "SEA",
+            "displayName": "Seattle Mariners",
+            "shortDisplayName": "Mariners",
+            "color": "005c5c",
+            "alternateColor": "0c2c56",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
+        },
+        "id": "401570760",
+        "name": "New York Yankees at Seattle Mariners",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "89-64"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "42-33"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "47-31"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "NYY @ SEA",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570760"
+    },
+    {
+        "_id": "401570758",
+        "awayId": "19",
+        "awayTeam": {
+            "id": "19",
+            "name": "Dodgers",
+            "abbreviation": "LAD",
+            "displayName": "Los Angeles Dodgers",
+            "shortDisplayName": "Dodgers",
+            "color": "005a9c",
+            "alternateColor": "ffffff",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+        },
+        "date": "2024-09-19T20:40Z",
+        "homeId": "28",
+        "homeTeam": {
+            "id": "28",
+            "name": "Marlins",
+            "abbreviation": "MIA",
+            "displayName": "Miami Marlins",
+            "shortDisplayName": "Marlins",
+            "color": "00a3e0",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
+        },
+        "id": "401570758",
+        "name": "Los Angeles Dodgers at Miami Marlins",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "91-62"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "48-27"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "43-35"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "LAD @ MIA",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570758"
+    },
+    {
+        "_id": "401570757",
+        "awayId": "2",
+        "awayTeam": {
+            "id": "2",
+            "name": "Red Sox",
+            "abbreviation": "BOS",
+            "displayName": "Boston Red Sox",
+            "shortDisplayName": "Red Sox",
+            "color": "0d2b56",
+            "alternateColor": "bd3039",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+        },
+        "date": "2024-09-19T22:50Z",
+        "homeId": "30",
+        "homeTeam": {
+            "id": "30",
+            "name": "Rays",
+            "abbreviation": "TB",
+            "displayName": "Tampa Bay Rays",
+            "shortDisplayName": "Rays",
+            "color": "092c5c",
+            "alternateColor": "8fbce6",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+        },
+        "id": "401570757",
+        "name": "Boston Red Sox at Tampa Bay Rays",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "76-77"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "35-40"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "41-37"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "BOS @ TB",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570757"
+    },
+    {
+        "_id": "401570755",
+        "awayId": "29",
+        "awayTeam": {
+            "id": "29",
+            "name": "Diamondbacks",
+            "abbreviation": "ARI",
+            "displayName": "Arizona Diamondbacks",
+            "shortDisplayName": "Diamondbacks",
+            "color": "aa182c",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
+        },
+        "date": "2024-09-19T23:15Z",
+        "homeId": "8",
+        "homeTeam": {
+            "id": "8",
+            "name": "Brewers",
+            "abbreviation": "MIL",
+            "displayName": "Milwaukee Brewers",
+            "shortDisplayName": "Brewers",
+            "color": "13294b",
+            "alternateColor": "ffc72c",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
+        },
+        "id": "401570755",
+        "name": "Arizona Diamondbacks at Milwaukee Brewers",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "85-68"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "42-33"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "43-35"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "ARI @ MIL",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570755"
+    },
+    {
+        "_id": "401570761",
+        "awayId": "22",
+        "awayTeam": {
+            "id": "22",
+            "name": "Phillies",
+            "abbreviation": "PHI",
+            "displayName": "Philadelphia Phillies",
+            "shortDisplayName": "Phillies",
+            "color": "e81828",
+            "alternateColor": "003278",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
+        },
+        "date": "2024-09-19T23:15Z",
+        "homeId": "21",
+        "homeTeam": {
+            "id": "21",
+            "name": "Mets",
+            "abbreviation": "NYM",
+            "displayName": "New York Mets",
+            "shortDisplayName": "Mets",
+            "color": "002d72",
+            "alternateColor": "ff5910",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
+        },
+        "id": "401570761",
+        "name": "Philadelphia Phillies at New York Mets",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "91-62"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "52-26"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "39-36"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "PHI @ NYM",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570761"
+    },
+    {
+        "_id": "401570762",
+        "awayId": "23",
+        "awayTeam": {
+            "id": "23",
+            "name": "Pirates",
+            "abbreviation": "PIT",
+            "displayName": "Pittsburgh Pirates",
+            "shortDisplayName": "Pirates",
+            "color": "000000",
+            "alternateColor": "fdb827",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
+        },
+        "date": "2024-09-19T23:15Z",
+        "homeId": "24",
+        "homeTeam": {
+            "id": "24",
+            "name": "Cardinals",
+            "abbreviation": "STL",
+            "displayName": "St. Louis Cardinals",
+            "shortDisplayName": "Cardinals",
+            "color": "be0a14",
+            "alternateColor": "001541",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+        },
+        "id": "401570762",
+        "name": "Pittsburgh Pirates at St. Louis Cardinals",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "72-81"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "38-40"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "34-41"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "PIT @ STL",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570762"
+    },
+    {
+        "_id": "401570765",
+        "awayId": "20",
+        "awayTeam": {
+            "id": "20",
+            "name": "Nationals",
+            "abbreviation": "WSH",
+            "displayName": "Washington Nationals",
+            "shortDisplayName": "Nationals",
+            "color": "ab0003",
+            "alternateColor": "11225b",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
+        },
+        "date": "2024-09-19T23:40Z",
+        "homeId": "16",
+        "homeTeam": {
+            "id": "16",
+            "name": "Cubs",
+            "abbreviation": "CHC",
+            "displayName": "Chicago Cubs",
+            "shortDisplayName": "Cubs",
+            "color": "0e3386",
+            "alternateColor": "cc3433",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
+        },
+        "id": "401570765",
+        "name": "Washington Nationals at Chicago Cubs",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "68-85"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "36-39"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "32-46"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "WSH @ CHC",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570765"
+    },
+    {
+        "_id": "401570754",
+        "awayId": "3",
+        "awayTeam": {
+            "id": "3",
+            "name": "Angels",
+            "abbreviation": "LAA",
+            "displayName": "Los Angeles Angels",
+            "shortDisplayName": "Angels",
+            "color": "ba0021",
+            "alternateColor": "c4ced4",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+        },
+        "date": "2024-09-20T00:10Z",
+        "homeId": "18",
+        "homeTeam": {
+            "id": "18",
+            "name": "Astros",
+            "abbreviation": "HOU",
+            "displayName": "Houston Astros",
+            "shortDisplayName": "Astros",
+            "color": "002d62",
+            "alternateColor": "eb6e1f",
+            "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
+        },
+        "id": "401570754",
+        "name": "Los Angeles Angels at Houston Astros",
+        "records": [
+            {
+                "name": "overall",
+                "abbreviation": "Game",
+                "type": "total",
+                "summary": "62-91"
+            },
+            {
+                "name": "Home",
+                "type": "home",
+                "summary": "32-46"
+            },
+            {
+                "name": "Road",
+                "type": "road",
+                "summary": "30-45"
+            }
+        ],
+        "season": {
+            "year": 2024,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "LAA @ HOU",
+        "tournament": "mlb",
+        "uid": "s:1~l:10~e:401570754"
+    },
+    {
+        "_id": "401721067",
+        "awayId": "2649",
+        "awayTeam": {
+            "id": "2649",
+            "name": "Rockets",
+            "abbreviation": "TOL",
+            "displayName": "Toledo Rockets",
+            "shortDisplayName": "Toledo",
+            "color": "0a2240",
+            "alternateColor": "ffcd00",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png"
+        },
+        "date": "2024-11-04T05:00Z",
+        "homeId": "2653",
+        "homeTeam": {
+            "id": "2653",
+            "name": "Trojans",
+            "abbreviation": "TROY",
+            "displayName": "Troy Trojans",
+            "shortDisplayName": "Troy",
+            "color": "AE0210",
+            "alternateColor": "88898c",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png"
+        },
+        "id": "401721067",
+        "name": "Toledo Rockets at Troy Trojans",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "TOL @ TROY",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401721067"
+    },
+    {
+        "_id": "401721049",
+        "awayId": "2459",
+        "awayTeam": {
+            "id": "2459",
+            "name": "Huskies",
+            "abbreviation": "NIU",
+            "displayName": "Northern Illinois Huskies",
+            "shortDisplayName": "N Illinois",
+            "color": "F1122C",
+            "alternateColor": "cc0000",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png"
+        },
+        "date": "2024-11-04T05:00Z",
+        "homeId": "290",
+        "homeTeam": {
+            "id": "290",
+            "name": "Eagles",
+            "abbreviation": "GASO",
+            "displayName": "Georgia Southern Eagles",
+            "shortDisplayName": "GA Southern",
+            "color": "003775",
+            "alternateColor": "f0f0f0",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png"
+        },
+        "id": "401721049",
+        "name": "Northern Illinois Huskies at Georgia Southern Eagles",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "NIU @ GASO",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401721049"
+    },
+    {
+        "_id": "401721041",
+        "awayId": "193",
+        "awayTeam": {
+            "id": "193",
+            "name": "RedHawks",
+            "abbreviation": "M-OH",
+            "displayName": "Miami (OH) RedHawks",
+            "shortDisplayName": "Miami OH",
+            "color": "a4000c",
+            "alternateColor": "f0f0f0",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png"
+        },
+        "date": "2024-11-04T05:00Z",
+        "homeId": "2026",
+        "homeTeam": {
+            "id": "2026",
+            "name": "Mountaineers",
+            "abbreviation": "APP",
+            "displayName": "App State Mountaineers",
+            "shortDisplayName": "App State",
+            "color": "000000",
+            "alternateColor": "ffcd00",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2026.png"
+        },
+        "id": "401721041",
+        "name": "Miami (OH) RedHawks at App State Mountaineers",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "M-OH @ APP",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401721041"
+    },
+    {
+        "_id": "401721028",
+        "awayId": "2309",
+        "awayTeam": {
+            "id": "2309",
+            "name": "Golden Flashes",
+            "abbreviation": "KENT",
+            "displayName": "Kent State Golden Flashes",
+            "shortDisplayName": "Kent State",
+            "color": "003976",
+            "alternateColor": "efab00",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png"
+        },
+        "date": "2024-11-04T05:00Z",
+        "homeId": "309",
+        "homeTeam": {
+            "id": "309",
+            "name": "Ragin' Cajuns",
+            "abbreviation": "UL",
+            "displayName": "Louisiana Ragin' Cajuns",
+            "shortDisplayName": "Louisiana",
+            "color": "ce181e",
+            "alternateColor": "ffffff",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png"
+        },
+        "id": "401721028",
+        "name": "Kent State Golden Flashes at Louisiana Ragin' Cajuns",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "KENT @ UL",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401721028"
+    },
+    {
+        "_id": "401721019",
+        "awayId": "2199",
+        "awayTeam": {
+            "id": "2199",
+            "name": "Eagles",
+            "abbreviation": "EMU",
+            "displayName": "Eastern Michigan Eagles",
+            "shortDisplayName": "E Michigan",
+            "color": "00331b",
+            "alternateColor": "f0f0f0",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png"
+        },
+        "date": "2024-11-04T05:00Z",
+        "homeId": "326",
+        "homeTeam": {
+            "id": "326",
+            "name": "Bobcats",
+            "abbreviation": "TXST",
+            "displayName": "Texas State Bobcats",
+            "shortDisplayName": "Texas St",
+            "color": "4e1719",
+            "alternateColor": "b4975a",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/326.png"
+        },
+        "id": "401721019",
+        "name": "Eastern Michigan Eagles at Texas State Bobcats",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "EMU @ TXST",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401721019"
+    },
+    {
+        "_id": "401721017",
+        "awayId": "2117",
+        "awayTeam": {
+            "id": "2117",
+            "name": "Chippewas",
+            "abbreviation": "CMU",
+            "displayName": "Central Michigan Chippewas",
+            "shortDisplayName": "C Michigan",
+            "color": "6a0032",
+            "alternateColor": "ffc82e",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png"
+        },
+        "date": "2024-11-04T05:00Z",
+        "homeId": "6",
+        "homeTeam": {
+            "id": "6",
+            "name": "Jaguars",
+            "abbreviation": "USA",
+            "displayName": "South Alabama Jaguars",
+            "shortDisplayName": "South Alabama",
+            "color": "003E7E",
+            "alternateColor": "",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/6.png"
+        },
+        "id": "401721017",
+        "name": "Central Michigan Chippewas at South Alabama Jaguars",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "CMU @ USA",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401721017"
+    },
+    {
+        "_id": "401721009",
+        "awayId": "2084",
+        "awayTeam": {
+            "id": "2084",
+            "name": "Bulls",
+            "abbreviation": "BUF",
+            "displayName": "Buffalo Bulls",
+            "shortDisplayName": "Buffalo",
+            "color": "041A9B",
+            "alternateColor": "ebebeb",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2084.png"
+        },
+        "date": "2024-11-04T05:00Z",
+        "homeId": "295",
+        "homeTeam": {
+            "id": "295",
+            "name": "Monarchs",
+            "abbreviation": "ODU",
+            "displayName": "Old Dominion Monarchs",
+            "shortDisplayName": "Old Dominion",
+            "color": "00507d",
+            "alternateColor": "a1d2f1",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/295.png"
+        },
+        "id": "401721009",
+        "name": "Buffalo Bulls at Old Dominion Monarchs",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "BUF @ ODU",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401721009"
+    },
+    {
+        "_id": "401720999",
+        "awayId": "189",
+        "awayTeam": {
+            "id": "189",
+            "name": "Falcons",
+            "abbreviation": "BGSU",
+            "displayName": "Bowling Green Falcons",
+            "shortDisplayName": "Bowling Green",
+            "color": "2b1000",
+            "alternateColor": "492000",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/189.png"
+        },
+        "date": "2024-11-04T05:00Z",
+        "homeId": "2572",
+        "homeTeam": {
+            "id": "2572",
+            "name": "Golden Eagles",
+            "abbreviation": "USM",
+            "displayName": "Southern Miss Golden Eagles",
+            "shortDisplayName": "Southern Miss",
+            "color": "FFAA3C",
+            "alternateColor": "ffc423",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2572.png"
+        },
+        "id": "401720999",
+        "name": "Bowling Green Falcons at Southern Miss Golden Eagles",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "BGSU @ USM",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401720999"
+    },
+    {
+        "_id": "401720991",
+        "awayId": "2050",
+        "awayTeam": {
+            "id": "2050",
+            "name": "Cardinals",
+            "abbreviation": "BALL",
+            "displayName": "Ball State Cardinals",
+            "shortDisplayName": "Ball State",
+            "color": "DA0000",
+            "alternateColor": "ffffff",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2050.png"
+        },
+        "date": "2024-11-04T05:00Z",
+        "homeId": "2247",
+        "homeTeam": {
+            "id": "2247",
+            "name": "Panthers",
+            "abbreviation": "GAST",
+            "displayName": "Georgia State Panthers",
+            "shortDisplayName": "Georgia St",
+            "color": "1e539a",
+            "alternateColor": "ebebeb",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png"
+        },
+        "id": "401720991",
+        "name": "Ball State Cardinals at Georgia State Panthers",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "BALL @ GAST",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401720991"
+    },
+    {
+        "_id": "401720977",
+        "awayId": "411",
+        "awayTeam": {
+            "id": "411",
+            "name": "Panthers",
+            "abbreviation": "CHA",
+            "displayName": "Chapman Panthers",
+            "shortDisplayName": "Chapman",
+            "color": "ab1d38",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/411.png"
+        },
+        "date": "2024-11-04T05:00Z",
+        "homeId": "300",
+        "homeTeam": {
+            "id": "300",
+            "name": "Anteaters",
+            "abbreviation": "UCI",
+            "displayName": "UC Irvine Anteaters",
+            "shortDisplayName": "UC Irvine",
+            "color": "002B5C",
+            "alternateColor": "fec52e",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/300.png"
+        },
+        "id": "401720977",
+        "name": "Chapman Panthers at UC Irvine Anteaters",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "CHA @ UCI",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401720977"
+    },
+    {
+        "_id": "401720941",
+        "awayId": "2006",
+        "awayTeam": {
+            "id": "2006",
+            "name": "Zips",
+            "abbreviation": "AKR",
+            "displayName": "Akron Zips",
+            "shortDisplayName": "Akron",
+            "color": "00285e",
+            "alternateColor": "84754e",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png"
+        },
+        "date": "2024-11-04T05:00Z",
+        "homeId": "2032",
+        "homeTeam": {
+            "id": "2032",
+            "name": "Red Wolves",
+            "abbreviation": "ARST",
+            "displayName": "Arkansas State Red Wolves",
+            "shortDisplayName": "Arkansas St",
+            "color": "e81018",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png"
+        },
+        "id": "401720941",
+        "name": "Akron Zips at Arkansas State Red Wolves",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "AKR @ ARST",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401720941"
+    },
+    {
+        "_id": "401720868",
+        "awayId": "2267",
+        "awayTeam": {
+            "id": "2267",
+            "name": "Vulcans",
+            "abbreviation": "HWHILO",
+            "displayName": "Hawai'i Hilo Vulcans",
+            "shortDisplayName": "Haw-Hilo",
+            "color": "",
+            "alternateColor": "",
+            "logo": ""
+        },
+        "date": "2024-11-04T05:00Z",
+        "homeId": "149",
+        "homeTeam": {
+            "id": "149",
+            "name": "Grizzlies",
+            "abbreviation": "MONT",
+            "displayName": "Montana Grizzlies",
+            "shortDisplayName": "Montana",
+            "color": "751D4A",
+            "alternateColor": "666666",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png"
+        },
+        "id": "401720868",
+        "name": "Hawai'i Hilo Vulcans at Montana Grizzlies",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "HWHILO @ MONT",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401720868"
+    },
+    {
+        "_id": "401720867",
+        "awayId": "123350",
+        "awayTeam": {
+            "id": "123350",
+            "name": "Buccaneers",
+            "abbreviation": "PARK",
+            "displayName": "Park University Gilbert Buccaneers",
+            "shortDisplayName": "Park U Gilbert",
+            "color": "",
+            "alternateColor": "",
+            "logo": ""
+        },
+        "date": "2024-11-04T05:00Z",
+        "homeId": "2464",
+        "homeTeam": {
+            "id": "2464",
+            "name": "Lumberjacks",
+            "abbreviation": "NAU",
+            "displayName": "Northern Arizona Lumberjacks",
+            "shortDisplayName": "N Arizona",
+            "color": "003976",
+            "alternateColor": "1b3069",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png"
+        },
+        "id": "401720867",
+        "name": "Park University Gilbert Buccaneers at Northern Arizona Lumberjacks",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "PARK @ NAU",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401720867"
+    },
+    {
+        "_id": "401721074",
+        "awayId": "2711",
+        "awayTeam": {
+            "id": "2711",
+            "name": "Broncos",
+            "abbreviation": "WMU",
+            "displayName": "Western Michigan Broncos",
+            "shortDisplayName": "W Michigan",
+            "color": "532e1f",
+            "alternateColor": "8b7f79",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png"
+        },
+        "date": "2024-11-05T00:00Z",
+        "homeId": "324",
+        "homeTeam": {
+            "id": "324",
+            "name": "Chanticleers",
+            "abbreviation": "CCU",
+            "displayName": "Coastal Carolina Chanticleers",
+            "shortDisplayName": "Coastal Car",
+            "color": "007073",
+            "alternateColor": "876447",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/324.png"
+        },
+        "id": "401721074",
+        "name": "Western Michigan Broncos at Coastal Carolina Chanticleers",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "WMU @ CCU",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401721074"
+    },
+    {
+        "_id": "401721059",
+        "awayId": "195",
+        "awayTeam": {
+            "id": "195",
+            "name": "Bobcats",
+            "abbreviation": "OHIO",
+            "displayName": "Ohio Bobcats",
+            "shortDisplayName": "Ohio",
+            "color": "295A29",
+            "alternateColor": "e4bb85",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/195.png"
+        },
+        "date": "2024-11-05T00:00Z",
+        "homeId": "256",
+        "homeTeam": {
+            "id": "256",
+            "name": "Dukes",
+            "abbreviation": "JMU",
+            "displayName": "James Madison Dukes",
+            "shortDisplayName": "James Madison",
+            "color": "450084",
+            "alternateColor": "b5a068",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/256.png"
+        },
+        "id": "401721059",
+        "name": "Ohio Bobcats at James Madison Dukes",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "OHIO @ JMU",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401721059"
+    },
+    {
+        "_id": "401720783",
+        "awayId": "551",
+        "awayTeam": {
+            "id": "551",
+            "name": "Hornets",
+            "abbreviation": "NVERLYND",
+            "displayName": "Vermont State - Lyndon Hornets",
+            "shortDisplayName": "VT-Lyndon",
+            "color": "",
+            "alternateColor": "",
+            "logo": ""
+        },
+        "date": "2024-11-05T00:00Z",
+        "homeId": "159",
+        "homeTeam": {
+            "id": "159",
+            "name": "Big Green",
+            "abbreviation": "DART",
+            "displayName": "Dartmouth Big Green",
+            "shortDisplayName": "Dartmouth",
+            "color": "005730",
+            "alternateColor": "000000",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/159.png"
+        },
+        "id": "401720783",
+        "name": "Vermont State - Lyndon Hornets at Dartmouth Big Green",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "NVERLYND @ DART",
+        "tournament": "ncaa",
+        "uid": "s:40~l:41~e:401720783"
+    },
+    {
+        "_id": "401720972",
+        "awayId": "38",
+        "awayTeam": {
+            "id": "38",
+            "name": "Buffaloes",
+            "abbreviation": "COLO",
+            "displayName": "Colorado Buffaloes",
+            "shortDisplayName": "Colorado",
+            "color": "000000",
+            "alternateColor": "cfb87c",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png"
+        },
+        "date": "2024-11-04T05:00Z",
+        "homeId": "2751",
+        "homeTeam": {
+            "id": "2751",
+            "name": "Cowgirls",
+            "abbreviation": "WYO",
+            "displayName": "Wyoming Cowgirls",
+            "shortDisplayName": "Wyoming",
+            "color": "492f24",
+            "alternateColor": "ffc425",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png"
+        },
+        "id": "401720972",
+        "name": "Colorado Buffaloes at Wyoming Cowgirls",
+        "season": {
+            "year": 2025,
+            "type": 2,
+            "slug": "regular-season"
+        },
+        "shortName": "COLO @ WYO",
+        "tournament": "ncaaf",
+        "uid": "s:40~l:54~e:401720972"
+    }
+]
